@@ -13,3 +13,15 @@ The project “Automatic Speed Controller “will definitely help to reduce the 
 •	Provides safety to the vehicles and pedestrians.
 •	Increases fuel efficiency and improve the environment air quality.
 •	Useful to identify and catch missing/stolen vehicles.
+
+### LIST OF COMPONENTS USED
+•	Arduino UNO
+•	Ultra sonic sensors HC-SR04
+•	IC 7805 (voltage regulator)
+•	RF 433MHz transmitter- receiver
+•	Motor driver IC L293D
+•	10 K ohm Potentiometer
+•	A car
+•	Remote case
+•	Bread board
+•	Jumper wires
