@@ -29,11 +29,11 @@ The project “Automatic Speed Controller “will definitely help to reduce the 
 ## BLOCK DIAGRAM
 
 ### TRANSMITTER MODULE:
-![](Picture1.png)
+![](/img/Speed/Picture1.png)
 ### RECEIVER MODULE:
-![](Picture2.png)
+![](/img/Speed/Picture2.png)
 ### REMOTE MODULE:
-![](Picture3.png)
+![](/img/Speed/Picture3.png)
 ### CIRCUIT DIAGRAM:
-![](Picture4.png)
+![](/img/Speed/Picture4.png)
 
